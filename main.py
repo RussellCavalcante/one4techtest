@@ -3,9 +3,6 @@ from selenium.webdriver.common.by import By
 import time
 import shutil
 import os
-import pandas as pd
-from openpyxl import load_workbook
-import PyPDF2
 from PyPDF2 import PdfReader
 import openpyxl
 
